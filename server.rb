@@ -1,5 +1,4 @@
 require 'sinatra'
-require 'shotgun'
 require 'csv'
 
 require_relative 'sermons'

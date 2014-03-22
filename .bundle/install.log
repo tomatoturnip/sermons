@@ -23,3 +23,13 @@ I, [2014-03-22T15:04:07.028244 #16696]  INFO -- : 0:  shotgun (0.9) from /Users/
 I, [2014-03-22T15:04:07.028549 #16696]  INFO -- : 0:  tilt (1.4.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
 I, [2014-03-22T15:04:07.028831 #16696]  INFO -- : 0:  sinatra (1.4.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-03-22T15:04:07.029074 #16696]  INFO -- : 0:  bundler (1.5.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-03-22T17:35:28.136491 #25376]  INFO -- : 0:  rack (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-22T17:35:28.136853 #25376]  INFO -- : 0:  rack-protection (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-22T17:35:28.137079 #25376]  INFO -- : 0:  tilt (1.4.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-22T17:35:28.137294 #25376]  INFO -- : 0:  sinatra (1.4.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-22T17:35:28.137482 #25376]  INFO -- : 0:  bundler (1.5.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-03-22T17:36:01.041907 #25460]  INFO -- : 0:  rack (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-22T17:36:01.042285 #25460]  INFO -- : 0:  rack-protection (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-22T17:36:01.042511 #25460]  INFO -- : 0:  tilt (1.4.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-22T17:36:01.042723 #25460]  INFO -- : 0:  sinatra (1.4.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-22T17:36:01.042906 #25460]  INFO -- : 0:  bundler (1.5.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
