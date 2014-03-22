@@ -1,4 +1,3 @@
-require 'pry'
 require 'csv'
 
 class Sermon
@@ -13,10 +12,18 @@ class Sermon
     @year = year
     @file = file
   end
+
+  def self.read_csv(csv)
+    sermons_array = []
+    CSV.foreach(csv, headers:true) do |row|
+      sermons_array << Sermon.new(row["Speaker"], row["Subject"], row["Venue"], row["Conference"], row["Year"], row["File"])
+    end
+    sermons_array
+  end
+
 end
 
-@sermons_array = []
-CSV.foreach('messages_index.csv', headers:true) do |row|
-  @sermons_array << Sermon.new(row["Speaker"], row["Subject"], row["Venue"], row["Conference"], row["Year"], row["File"])
-end
+
+
+
 
