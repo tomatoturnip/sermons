@@ -1,5 +1,6 @@
 require 'csv'
 
+
 class Sermon
 
   attr_reader :speaker, :subject, :venue, :conference, :year, :file
@@ -19,6 +20,10 @@ class Sermon
       sermons_array << Sermon.new(row["Speaker"], row["Subject"], row["Venue"], row["Conference"], row["Year"], row["File"])
     end
     sermons_array
+  end
+
+  def make_array
+    [@speaker, @subject, @venue, @conference, @year, @file]
   end
 
 end

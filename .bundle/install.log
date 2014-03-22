@@ -15,3 +15,11 @@ I, [2014-03-22T11:54:13.133353 #10281]  INFO -- : 0:  shotgun (0.9) from /Users/
 I, [2014-03-22T11:54:13.133586 #10281]  INFO -- : 0:  tilt (1.4.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
 I, [2014-03-22T11:54:13.133800 #10281]  INFO -- : 0:  sinatra (1.4.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-03-22T11:54:13.133995 #10281]  INFO -- : 0:  bundler (1.5.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-03-22T15:04:06.155797 #16696]  INFO -- : 0:  thor (0.19.0) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/thor-0.19.0.gemspec
+I, [2014-03-22T15:04:07.027308 #16696]  INFO -- : 0:  foundation (1.0.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/foundation-1.0.4.gemspec
+I, [2014-03-22T15:04:07.027719 #16696]  INFO -- : 0:  rack (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-22T15:04:07.027989 #16696]  INFO -- : 0:  rack-protection (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-22T15:04:07.028244 #16696]  INFO -- : 0:  shotgun (0.9) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-22T15:04:07.028549 #16696]  INFO -- : 0:  tilt (1.4.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-22T15:04:07.028831 #16696]  INFO -- : 0:  sinatra (1.4.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-22T15:04:07.029074 #16696]  INFO -- : 0:  bundler (1.5.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
