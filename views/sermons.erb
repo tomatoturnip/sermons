@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>Peninsula Church In Christ</title>
+    <link rel="stylesheet" href="sermons.css" />
+  </head>
+<body>
+  <h1>Peninsula Church In Christ</h1>
+  <table>
+  <tr>
+    <th>Speaker</th>
+    <th>Subject</th>
+    <th>Venue</th>
+    <th>Conference</th>
+    <th>Year</th>
+    <th>Link</th>
+  </tr>
+   <% @sermons_array.each do |sermon| %>
+    <tr>
+      <td><%= sermon.speaker %></td>
+      <td><%= sermon.subject %></td>
+      <td><%= sermon.venue %></td>
+      <td><%= sermon.conference %></td>
+      <td><%= sermon.year %></td>
+      <td><%= sermon.file %></td>
+    </tr>
+   <% end %>
+  </table>
+ </body>
+</html>
